@@ -33,6 +33,19 @@ namespace MaximumNumberTest
             //Assert
             Assert.AreEqual(expectedMax, actualMax);
         }
-
+        [TestMethod]
+        [DataRow("Corona", "Covid", "SarsCov2")]
+        [DataRow("SarsCov2", "Covid", "Corona")]
+        [DataRow("Covid", "SarsCov2", "Corona")]
+        public void MaxStringMethod_ShouldReturnMaxString(string s1, string s2, string s3)
+        {
+            //arrange
+            string expectedMax = "SarsCov2";
+            string actualMax;
+            //act
+            actualMax = FindMaximum.MaximumStringNumber(s1, s2, s3);
+            //Assert
+            Assert.AreEqual(expectedMax, actualMax);
+        }
     }
 }
