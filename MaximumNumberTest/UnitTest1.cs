@@ -19,5 +19,20 @@ namespace MaximumNumberTest
 
             Assert.AreEqual(actualMax,expectedMax);
         }
+        [TestMethod]
+        [DataRow(8.5f, 3.2f, 1.7f)]
+        [DataRow(3.2f, 8.5f, 1.7f)]
+        [DataRow(3.2f, 1.7f, 8.5f)]
+        public void MaxFloatMethod_ShouldReturnMaxFloat(float n1, float n2, float n3)
+        {
+            //arrange
+            float expectedMax = 8.5f;
+            float actualMax;
+            //act
+            actualMax = FindMaximum.FindMaximumFloat(n1, n2, n3);
+            //Assert
+            Assert.AreEqual(expectedMax, actualMax);
+        }
+
     }
 }
