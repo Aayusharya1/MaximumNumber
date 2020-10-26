@@ -27,7 +27,11 @@ namespace MaximumNumberGenerics
 
             return sorted_values[sorted_values.Length - 1];
         }
+        public void PrintMaxValue()
+        {
+            var max = MaxValue(this.value);
+            Console.WriteLine("Maximum value is " + max);
+        }
 
-        
     }
 }
