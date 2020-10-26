@@ -1,0 +1,13 @@
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\bin\Debug\netcoreapp3.1\MaximumNumberGenerics.exe
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\bin\Debug\netcoreapp3.1\MaximumNumberGenerics.deps.json
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\bin\Debug\netcoreapp3.1\MaximumNumberGenerics.runtimeconfig.json
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\bin\Debug\netcoreapp3.1\MaximumNumberGenerics.runtimeconfig.dev.json
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\bin\Debug\netcoreapp3.1\MaximumNumberGenerics.dll
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\bin\Debug\netcoreapp3.1\MaximumNumberGenerics.pdb
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\obj\Debug\netcoreapp3.1\MaximumNumberGenerics.csprojAssemblyReference.cache
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\obj\Debug\netcoreapp3.1\MaximumNumberGenerics.AssemblyInfoInputs.cache
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\obj\Debug\netcoreapp3.1\MaximumNumberGenerics.AssemblyInfo.cs
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\obj\Debug\netcoreapp3.1\MaximumNumberGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\obj\Debug\netcoreapp3.1\MaximumNumberGenerics.dll
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\obj\Debug\netcoreapp3.1\MaximumNumberGenerics.pdb
+C:\Users\Aayush Arya\source\repos\MaximumNumberGenerics\MaximumNumberGenerics\obj\Debug\netcoreapp3.1\MaximumNumberGenerics.genruntimeconfig.cache
